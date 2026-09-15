@@ -1,8 +1,8 @@
 # Reponoya_LAB4
 
-============ Pip Dependencies to Install ============
+PIP Dependencies to Install :
+
 Run Command in Terminal → _pip install pandas mysql-connector-python_
-=====================================================
 
 
 Sample Output :
